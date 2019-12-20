@@ -1,0 +1,589 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://myexample.org/" > 
+  <rdf:Description rdf:about="http://myexample.org/stream/stream/user292">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user301">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user30"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user73">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user153">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user390">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user39"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user83">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user213">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user311">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user252">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user25"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user32">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user112">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user351">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user300">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user30"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user291">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user74">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user200">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user20"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user152">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user84">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user391">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user39"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user210">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user214">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user310">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user251">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user25"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user31">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user113">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user350">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user364">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user36"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user71">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user290">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user280">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user313">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user211">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user392">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user39"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user124">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user353">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user363">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user36"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user250">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user25"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user240">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user44">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user34">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user114">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user154">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user72">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user312">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user393">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user39"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user164">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user16"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user212">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user33">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user362">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user36"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user352">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user43">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user163">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user16"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user394">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user39"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user102">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user143">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user122">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user314">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user162">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user16"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user103">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user174">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user17"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user184">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user374">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user304">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user30"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user324">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user32"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user142">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user354">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user334">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user33"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user123">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user100">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user173">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user17"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user161">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user16"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user303">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user30"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user151">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user131">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user120">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user323">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user32"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user110">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user141">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user160">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user16"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user101">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user172">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user17"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user302">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user30"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user150">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user130">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user322">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user32"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user121">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user111">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user140">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user342">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user34"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user133">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user94">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user332">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user33"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user271">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user27"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user11">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user180">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user232">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user23"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user371">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user190">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user170">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user17"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user52">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user12">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user343">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user34"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user191">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user272">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user27"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user93">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user333">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user33"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user132">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user181">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user370">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user231">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user23"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user51">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user384">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user38"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user171">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user17"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user13">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user330">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user33"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user344">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user34"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user23">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user92">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user373">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user220">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user64">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user182">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user54">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user383">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user38"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user230">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user23"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user134">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user14">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user260">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user270">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user27"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user144">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user331">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user33"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user24">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user91">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user372">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user183">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user63">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user53">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user382">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user38"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user42">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user242">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user80">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user21">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user361">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user36"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user261">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user194">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user222">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user281">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user381">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user38"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user202">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user20"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user70">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user90">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user62">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user104">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user41">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user241">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user360">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user36"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user22">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user262">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user282">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user221">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user201">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user20"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user380">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user38"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user61">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user254">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user25"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user40">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user340">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user34"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user273">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user27"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user192">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user30">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user263">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user244">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user283">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user82">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user204">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user20"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user320">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user32"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user50">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user224">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user60">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user234">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user23"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user293">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user341">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user34"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user10">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user274">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user27"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user264">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user193">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user253">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user25"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user20">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user243">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user81">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user284">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user223">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user321">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user32"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user203">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user20"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user233">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user23"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org/stream/user294">
+    <j.0:follows rdf:resource="http://myexample.org/stream/user29"/>
+  </rdf:Description>
+</rdf:RDF>
